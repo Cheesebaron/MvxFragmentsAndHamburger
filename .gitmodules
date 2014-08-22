@@ -1,0 +1,4 @@
+[submodule "MvvmCross"]
+	path = MvvmCross
+	url = git@github.com:Cheesebaron/MvvmCross.git
+	branch = fragments
